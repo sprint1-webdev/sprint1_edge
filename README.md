@@ -26,7 +26,7 @@ Este projeto consiste em um sensor inteligente desenvolvido para monitorar condi
 
 ## Acesso ao Vídeo
 
-- [Demonstração em Vídeo](https://youtube.com/seu-video)
+- [Demonstração em Vídeo](https://youtu.be/6PhcSlCJU2I)
 
 ## Componentes
 
